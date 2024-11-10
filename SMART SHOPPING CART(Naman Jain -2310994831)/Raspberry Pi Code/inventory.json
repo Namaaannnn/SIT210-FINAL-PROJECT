@@ -1,0 +1,56 @@
+[
+    {
+        "item_code": "001",
+        "item_name": "Kiwi",
+        "quantity": 62,
+        "price_per_quantity": 10.0
+    },
+    {
+        "item_code": "002",
+        "item_name": "Apple",
+        "quantity": 63,
+        "price_per_quantity": 15.0
+    },
+    {
+        "item_code": "003",
+        "item_name": "Orange",
+        "quantity": 65,
+        "price_per_quantity": 20.0
+    },
+    {
+        "item_code": "004",
+        "item_name": "Kurkure",
+        "quantity": 61,
+        "price_per_quantity": 12.5
+    },
+    {
+        "item_code": "005",
+        "item_name": "Lays",
+        "quantity": 52,
+        "price_per_quantity": 7.0
+    },
+    {
+        "item_code": "006",
+        "item_name": "Maggei",
+        "quantity": 55,
+        "price_per_quantity": 25.0
+    },
+    {
+        "item_code": "007",
+        "item_name": "Oreo",
+        "quantity": 61,
+        "price_per_quantity": 30.0
+    },
+    {
+        "item_code": "008",
+        "item_name": "Dettol",
+        "quantity": 64,
+        "price_per_quantity": 40.0
+    },
+    {
+        "item_code": "009",
+        "item_name": "KitKat",
+        "quantity": 61,
+        "price_per_quantity": 5.0
+    }
+]
